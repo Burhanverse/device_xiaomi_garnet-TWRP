@@ -29,6 +29,10 @@
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := garnet
 
+# Resolution
+TARGET_SCREEN_HEIGHT := 2712
+TARGET_SCREEN_WIDTH := 1220
+
 # TWRP specific build flags
 TW_FRAMERATE := 120
 
