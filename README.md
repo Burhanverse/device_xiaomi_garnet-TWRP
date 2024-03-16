@@ -14,3 +14,6 @@ Storage | 256GB
 Battery | 5100 mAh, non-removable
 Display | AMOLED, 68B colors, 120Hz, Dolby Vision, 500 nits (typ), 1200 nits (HBM), 1800 nits (peak), 6.67 inches, 107.4 cm2 (~89.7% screen-to-body ratio), Corning Gorilla Glass Victus.
 Camera  | 64 MP, f/1.8, 25mm (wide), 0.7µm, PDAF, OIS, 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm, 2 MP, f/2.4, (macro)
+
+## Device Image
+![GARNET](https://raw.githubusercontent.com/Burhanverse/assets/main/garnet.png)
